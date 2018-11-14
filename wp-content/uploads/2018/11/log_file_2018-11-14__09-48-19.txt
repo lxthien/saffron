@@ -1,0 +1,115 @@
+
+---Downloaded files---
+The import files for: eCommerce Market were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/saffron
+Data file = F:\xampp\htdocs\saffron/wp-content/themes/ecommerce-market/demo-content/demoecommerce.wordpress.2018-02-16.xml
+Widget file = F:\xampp\htdocs\saffron/wp-content/themes/ecommerce-market/demo-content/demo.rigorousthemes.com-demo-test-widgets.wie
+Customizer file = F:\xampp\htdocs\saffron/wp-content/themes/ecommerce-market/demo-content/ecommerce-market-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Ảnh - No Title - Imported
+Recent Viewed Products - Recently Viewed Products - Imported
+EM: Product Carousel - On Sale - Imported
+EM: Featured Product - Top 3 Seller - Imported
+EM: Recent Posts - Recent Post - Imported
+EM: Promo Widget - Get Special Offers &amp; Discounts - Imported
+EM: Testimonial - No Title - Imported
+Gallery ảnh - Gallery - Imported
+Product Categories - Product categories - Imported
+
+Home Page Section : 
+
+EM: Categories Collection - No Title - Imported
+EM: Product Carousel - Featured Products - Imported
+Ảnh - No Title - Imported
+EM: Categories Collection - Top Brands - Imported
+EM: Promo Widget - Get Special Offers &amp; Discounts - Imported
+Ảnh - No Title - Imported
+EM: Product Carousel - On Sale - Imported
+EM: Featured Product - Top Seller - Imported
+EM: Testimonial - No Title - Imported
+EM: Latest Blog - Latest Blog - Imported
+
+Shop Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Recent Viewed Products - Recently Viewed Products - Imported
+Filter Products by Rating - Average rating - Imported
+Products by Rating - Top rated products - Imported
+EM: Product Carousel - On Sale - Imported
+EM: Featured Product - Featured Product - Imported
+EM: Recent Posts - Recent Posts - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+
