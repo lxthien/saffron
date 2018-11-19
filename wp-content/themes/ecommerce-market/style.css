@@ -1102,7 +1102,7 @@ sub {
 
 p {
 	color: #464646;
-	font-size: 14px;
+	font-size: 16px;
 	margin: 0 0 22px;
 }
 strong {
@@ -2827,7 +2827,7 @@ textarea{
 
 	/*   -- "Entry Header"  (These are the styles for the Entry Header ) --   */
 	header.entry-header.heading {
-		padding: 0px 0 40px;
+		padding: 0px 0 20px;
 		text-align: center;
 	}
 	.introduction-content-wrapper header.entry-header.heading {
@@ -2836,11 +2836,11 @@ textarea{
 	.heading .entry-title {
 		color: #585858;
 		display: inline-block;
-		font-size: 31px;
+		font-size: 30px;
 		line-height: 1.2;
 		position: relative;
 		text-transform: uppercase;
-		font-family: 'ProximaNova-Bold';
+		font-family: 'Roboto Condensed', sans-serif;
 		padding: 0;
 	}
 	.heading .entry-title::before {
@@ -2928,7 +2928,7 @@ textarea{
 
 	/*   -- "Entry Title" section (These are the styles for the Entry Title section) --   */
 	.entry-title {
-		font-size: 20px;
+		font-size: 30px;
 		line-height: 1.2;
 		position: relative;
 	}
@@ -3332,7 +3332,7 @@ textarea{
 		background-size: cover;
 		padding: 82px 0 25px;
 		position: relative;
-		margin-bottom: 75px;
+		margin-bottom: 30px;
 	}
 	.page-title-wrap::before {
 		background: rgba(60, 49, 39, 0.3) none repeat scroll 0 0;
@@ -3636,8 +3636,8 @@ textarea{
 		padding-top: 10px;
 	}
 	#primary .widget_media_image {
-		margin: 50px auto 0;
-		???width: 100%;
+		margin: 20px auto 20px;
+		width: 100%;
 		max-width: 1175px;
 	}
 
@@ -4208,7 +4208,7 @@ textarea{
 	}
 	.product-item .entry-title{
 		color: #585858;
-		font-size: 14px;
+		font-size: 16px;
 		font-weight: 600;
 		padding-bottom: 10px;
 	}
@@ -4623,7 +4623,7 @@ textarea{
         }
         .discount-content-wrapper {
         	margin: 0 auto;
-        	max-width: 600px;
+        	max-width: 700px;
         	text-align: center;
         }
         .discount-section .heading .entry-title:before,
@@ -5865,7 +5865,7 @@ textarea{
         .site-footer,
         .testimonial-section,
         .discount-section{
-        	margin: 90px 0 0;
+        	margin: 0px 0 0;
         }
 
 
