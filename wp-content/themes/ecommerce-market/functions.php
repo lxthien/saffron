@@ -50,7 +50,7 @@ function ecommerce_market_setup() {
 		add_image_size( 'ecommerce-market-product-new-arrival-medium', 488, 288, true);
 		add_image_size( 'ecommerce-market-subscription', 676, 486, true);
 		add_image_size( 'ecommerce-market-latest-blog', 264, 163, true);
-		add_image_size( 'ecommerce-market-recent-posts', 98, 102, true);
+		add_image_size( 'ecommerce-market-recent-posts', 98, 70, true);
 		add_image_size( 'ecommerce-market-testimonial', 676, 511, true);
 		add_image_size( 'ecommerce-market-archive', 362, 269, true);
 		add_image_size( 'ecommerce-market-slider', 1400, 587, true);	

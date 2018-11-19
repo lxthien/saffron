@@ -103,9 +103,9 @@ class Ecommerce_Market_Recent_Posts extends WP_Widget
              <div class="post-item-text">  
               <?php if ( $show_date ) : ?>
                   
-                <?php ecommerce_market_posted_on();?>                  
+                <?php ecommerce_market_posted_on();?>
 
-              <?php endif;?>             
+              <?php endif;?>
 
               <header class="entry-header">
                 <h5 class="entry-title">
